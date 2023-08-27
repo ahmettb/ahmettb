@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-- 🌱 I’m currently learning Java Spring Microservices
+- 🌱 I’m currently learning  Microservices
 
 - 📫 How to reach me **boztemurahmet7@gmail.com**
 
